@@ -1,6 +1,7 @@
 # Media_query_04
 
 Esta aplicação muda a imagem de fundo e a imagem dentro da tag main, dependendo do tipo de dispositivo usado para acessar o site.
+Para testá-lo, mude a dimensão do seu dispositivo.
 
 ### Status do projeto
 
